@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ipl-21/static/js/2.0be92d95.chunk.js"
   },
   {
-    "revision": "0a9b451f43a544b41d0f86a7f8ac7579",
+    "revision": "1db13c38e91a977865926d98aad1dca4",
     "url": "/ipl-21/index.html"
   }
 ];
