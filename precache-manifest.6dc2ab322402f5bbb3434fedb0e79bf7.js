@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "371177e4721d1ea4d40d",
+    "revision": "be959a5e371a4d580940",
     "url": "/ipl-21/static/css/main.31e8e36b.chunk.css"
   },
   {
-    "revision": "371177e4721d1ea4d40d",
-    "url": "/ipl-21/static/js/main.371177e4.chunk.js"
+    "revision": "be959a5e371a4d580940",
+    "url": "/ipl-21/static/js/main.be959a5e.chunk.js"
   },
   {
     "revision": "ebf5cdb8e34f552d05c1",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ipl-21/static/js/2.0be92d95.chunk.js"
   },
   {
-    "revision": "a9f639668d6e4cee3ad77d24ed270e6d",
+    "revision": "f9571a46949899da45e93f3eedd5feef",
     "url": "/ipl-21/index.html"
   }
 ];
